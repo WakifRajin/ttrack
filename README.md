@@ -1,4 +1,4 @@
-# Tuition Tracker Pro (Split Project)
+# Tuition Tracker Pro
 
 This folder contains the split version of the app:
 - `index.html`
