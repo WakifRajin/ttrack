@@ -1,5 +1,7 @@
 # Tuition Tracker Pro
 
+https://wakifrajin.github.io/tuition-tracker/
+
 This folder contains the split version of the app:
 - `index.html`
 - `assets/css/styles.css`
